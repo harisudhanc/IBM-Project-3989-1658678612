@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-# IBM-Project-52389-1661000466
+# IBM-Project-3989-1658678612
 
 |      **Project Name**     | Skill And Job Recommender |
 |:---------------------:|:------------------------------:|
@@ -12,7 +12,7 @@
 |:-----------:|:-----------------:|
 | Team Leader   | **Gayathri R**     |
 | Team Member 1 | **Keshavardhini J**   |
-| Team Member 2 | **Rajeshkannan C **|
+| Team Member 2 | **Rajesh kannan C**|
 | Team Member 3 | **Dhilipan R**       |
 | Team Member 4 | **Divya M**     |
 
